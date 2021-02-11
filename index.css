@@ -24,7 +24,7 @@ img.bibbase_icon {
   display: none;
 }
 
-span.bibbase_icon_text {
+.bibbase_icon_text {
   color: #5D0001;
   font-size: 9pt;
   line-height: 12pt;
